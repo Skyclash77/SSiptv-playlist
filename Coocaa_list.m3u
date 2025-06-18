@@ -7,7 +7,7 @@
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="" group-title="Indonesia Channels",RCTI HD
-https://legacy-global-cdn.visionplus.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
