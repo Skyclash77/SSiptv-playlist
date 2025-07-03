@@ -1,1 +1,29 @@
-https://livecdn.fptplay.net/sdb/htv7hd_hls.smil/playlist.m3u8
+#EXTM3U
+
+# --- METROTV (Workable)
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="MetroTV" group-title="Indonesia",MetroTV
+https://metro.surya.net.id/hls/metrotv.m3u8
+
+# --- TVRI Nasional
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nasional" group-title="Indonesia",TVRI Nasional
+https://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+# --- TVRI Sport
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" group-title="Indonesia",TVRI Sport
+https://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISport)/index.m3u8
+
+# --- JAKTV
+#EXTINF:-1 tvg-id="JakTV.id" tvg-name="JakTV" group-title="Indonesia",JakTV
+https://bcovlive-a.akamaihd.net/r6a0d2aa26ce2408e85f7a2a12a72b629/ap-southeast-1/6055057004001/profile_1/chunklist.m3u8
+
+# --- BALI TV
+#EXTINF:-1 tvg-id="BaliTV.id" tvg-name="Bali TV" group-title="Indonesia",Bali TV
+https://cdnv3.balitv.tv/live/stream.m3u8
+
+# --- JTV (Jawa Pos TV)
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV Surabaya" group-title="Indonesia",JTV Surabaya
+https://video.detik.com/live/ids/jtv.m3u8
+
+# --- Berita Satu
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu" group-title="Indonesia",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720/index.m3u8
