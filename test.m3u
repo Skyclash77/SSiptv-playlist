@@ -2,7 +2,7 @@
 
 # --- METROTV (Workable)
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="MetroTV" group-title="Indonesia",MetroTV
-https://metro.surya.net.id/hls/metrotv.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8 
 
 # --- TVRI Nasional
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nasional" group-title="Indonesia",TVRI Nasional
