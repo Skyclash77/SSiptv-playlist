@@ -29,4 +29,5 @@ https://video.detik.com/live/ids/jtv.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720/index.m3u8
 
 # --- Zonghes
+#EXTINF:-1 tvg-id="Zonghes.com" tvg-name="Zonghes" group-title="China",Zonghes
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
