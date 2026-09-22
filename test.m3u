@@ -29,5 +29,5 @@ https://video.detik.com/live/ids/jtv.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720/index.m3u8
 
 # --- Zonghes
-#EXTINF:-1 tvg-id="Guangzhou.com" tvg-name="Guangzhou" tvg-logo="https://raw.githubusercontent.com/Skyclash77/Logo/main/guangzhou.png" group-title="China",Guangzhou TV
+#EXTINF:-1 tvg-id="Guangzhou.com" tvg-name="Guangzhou" tvg-logo="https://raw.githubusercontent.com/Skyclash77/Logo/main/Guangzhou.png" group-title="China",Guangzhou TV
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
