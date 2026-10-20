@@ -16,19 +16,13 @@ https://allcutv.rctiplus.id/mnctv2023.m3u8
 #https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 https://allcutv.rctiplus.id/gtv2023.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sctv.png" group-title="Indonesia Channels",SCTV 2
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" override-resolution="1280x720" input-format="mp4" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sctv.png" group-title="NASIONAL",SCTV vid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.dash?id=204
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=204
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="Asian Games 2026" ,SCTV VID
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTINF:-1 tvg-id="SCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Indonesia Channels",SCTV 
-https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://vidio123.mikrofast.web.id/vidio/204/index.mpd
+#https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
+#https://vidsemar.pages.dev/terraluna2/204.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
